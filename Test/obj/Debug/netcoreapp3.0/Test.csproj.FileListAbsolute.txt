@@ -1,0 +1,7 @@
+/Users/craige/Source/PaketTest/Test/obj/Debug/netcoreapp3.0/Test.csprojAssemblyReference.cache
+/Users/craige/Source/PaketTest/Test/obj/Debug/netcoreapp3.0/staticwebassets/Test.StaticWebAssets.Manifest.cache
+/Users/craige/Source/PaketTest/Test/obj/Debug/netcoreapp3.0/staticwebassets/Test.StaticWebAssets.xml
+/Users/craige/Source/PaketTest/Test/obj/Debug/netcoreapp3.0/Test.RazorAssemblyInfo.cache
+/Users/craige/Source/PaketTest/Test/obj/Debug/netcoreapp3.0/Test.RazorAssemblyInfo.cs
+/Users/craige/Source/PaketTest/Test/obj/Debug/netcoreapp3.0/Test.AssemblyInfoInputs.cache
+/Users/craige/Source/PaketTest/Test/obj/Debug/netcoreapp3.0/Test.AssemblyInfo.cs
